@@ -1,7 +1,7 @@
-# -OOPS-concept-C-
+# -OOPS-concept-C++0-
 This is a repository for revision of OOPS concept few minutes before interview .
 
-                                                          <b>OBJECT ORIENTED PROGRAMMING</b>
+<h1 text-align="center">OBJECT ORIENTED PROGRAMMING</h1>
 The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function.
 Object-oriented programming aims to implement real-world entities like inheritance, hiding, polymorphism, etc in programming.
 Characteristics of an Object Oriented Programming language:
