@@ -7,22 +7,25 @@
  </ul>
 <h3 >Characteristics of an Object Oriented Programming language:</h3>
 <br>
-<b>CLASS</b>:      Class in C++ is a blue-print representing a group of objects which shares some common properties and behaviours.
+<b><u>CLASS </u> </b> : Class in C++ is a blue-print representing a group of objects which shares some common properties and behaviours.
 <ul>
 <li>A Class is a user-defined data-type which has data members and member functions which can be accessed and used by creating an instance of that class. </li>
 <li>Data members are the data variables and member functions are the functions used to manipulate these variables and together these data members and member functions define the properties and behaviour of the objects in a Class.</li>
  <li>Member functions are method to access data memebers</li>
 </ul>
-
-Objects:- An Object is an identifiable entity with some characteristics and behaviour. An Object is an instance of a Class
+<br>
+<b> <u>OBJECTS</u> </b>:- An Object is an identifiable entity with some characteristics and behaviour. An Object is an instance of a Class
  When a class is defined, no memory is allocated but when it is instantiated (i.e. an object is created) memory is allocated.
- Access Modifier: Access Modifiers or Access Specifiers in a class are used to assign the accessibility to the class members. That is, it sets some restrictions on the class members not to get directly accessed by the outside functions.
+ <br>
+<b> Access Modifier </b>: Access Modifiers or Access Specifiers in a class are used to assign the accessibility to the class members. That is, it sets some restrictions on the class  members not to get directly accessed by the outside functions.
    3 types of access modifier:
-•	Public : The data members and member functions declared as public can be accessed by other classes and functions too
-•	Protected: They are not allowed to be accessed directly by any object or function outside the class.  can be accessed only by the member functions inside the class
-•	Private : similar to private access modifier the difference is that the class members declared as Protected can be accessed by any subclass(derived class) of that class as well. 
-            by default the access modifier for the members will be Private.
-*Only the member functions or the friend functions are allowed to access the private data members of a class.
+   <ul>
+<li>	Public : The data members and member functions declared as public can be accessed by other classes and functions too </li>
+<li>Private: They are not allowed to be accessed directly by any object or function outside the class.  can be accessed only by the member functions inside the class </li>
+<li>Protected : similar to private access modifier the difference is that the class members declared as Protected can be accessed by any subclass(derived class) of that class as well. </li>
+ <li>by default the access modifier for the members will be Private.</li>
+ </ul>
+******Only the member functions or the friend functions are allowed to access the private data members of a class.
  <b>Friend Class</b>
      A friend class can access private and protected members of other class in which it is declared as friend.
 
