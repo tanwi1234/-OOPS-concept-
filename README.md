@@ -6,8 +6,8 @@
 <li>Object-oriented programming aims to implement real-world entities like inheritance, hiding, polymorphism, etc in programming.</li>
  </ul>
 <h3 >Characteristics of an Object Oriented Programming language:</h3>
-
-<i>CLASS</i>: Class in C++ is a blue-print representing a group of objects which shares some common properties and behaviours.
+<br>
+<b>CLASS</b>:      Class in C++ is a blue-print representing a group of objects which shares some common properties and behaviours.
 <ul>
 <li>A Class is a user-defined data-type which has data members and member functions which can be accessed and used by creating an instance of that class. </li>
 <li>Data members are the data variables and member functions are the functions used to manipulate these variables and together these data members and member functions define the properties and behaviour of the objects in a Class.</li>
