@@ -48,21 +48,23 @@ b) A global function
 
 <li>An operation may exhibit different behaviours in different instances. The behaviour depends upon the types of data used in the operation.</li>
  <li>C++ supports operator overloading and function overloading.</li>
-•	Operator Overloading: The process of making an operator to exhibit different behaviours in different instances is known as operator overloading.
-•	Function Overloading: Function overloading is using a single function name to perform different types of tasks..
-
+ <ul>
+ <li>Operator Overloading: The process of making an operator to exhibit different behaviours in different instances is known as operator overloading.</li>
+ <li>Function Overloading: Function overloading is using a single function name to perform different types of tasks.</li>
+ </ul>
 
  <li> <b>Compile time polymorphism </b>: This type of polymorphism is achieved by function overloading or operator overloading.</li>
 
 1.function overloading: When there are multiple functions with same name but different parameters then these functions are said to be overloaded
 
 2.Operator overloading: C++ has the ability to provide the operators with a special meaning for a data type, this ability is known as operator overloading.
-•	Almost all operators can be overloaded except few. Following is the  list of operators that cannot be overloaded.
-•	. (dot) 
-•	:: 
-•	?: 
-•	sizeof 
-
+ <ul>
+<li>Almost all operators can be overloaded except few. Following is the  list of operators that cannot be overloaded.</li>
+  <li>	. (dot) </li>
+  <li>:: </li>
+  <li>	?: </li>
+  <li>	sizeof </li>
+ </ul>
  <li><b>Runtime polymorphism</b>: This type of polymorphism is achieved by Function Overriding.</li>
 •	Function overriding :when a derived class has a definition for one of the member functions of the base class. That base function is said to be overridden.
 </ul>
