@@ -1,13 +1,13 @@
 
 
-<h1 style="text-align:center;">OBJECT ORIENTED PROGRAMMING</h1>
+<h1 align="center">OBJECT ORIENTED PROGRAMMING</h1>
 <ul>
 <li>The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function.</li>
 <li>Object-oriented programming aims to implement real-world entities like inheritance, hiding, polymorphism, etc in programming.</li>
  </ul>
-<h3 style="text-transform:uppercase;">Characteristics of an Object Oriented Programming language:</h3>
+<h3 text-transform="uppercase">Characteristics of an Object Oriented Programming language:</h3>
 
-<h3 style="color:yellow;">Class</h3>: Class in C++ is a blue-print representing a group of objects which shares some common properties and behaviours.
+<h3 color="yellow">Class</h3>: Class in C++ is a blue-print representing a group of objects which shares some common properties and behaviours.
 •	A Class is a user-defined data-type which has data members and member functions which can be accessed and used by creating an instance of that class. 
 •	Data members are the data variables and member functions are the functions used to manipulate these variables and together these data members and member functions define the properties and behaviour of the objects in a Class.
 •	Member functions are method to access data memebers
