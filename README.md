@@ -108,7 +108,7 @@ Following things are necessary to write a C++ program with runtime polymorphism 
  <li>we can simply avoid the duplication of data and increase re-usability using  inheritance.</li>
 </ul>
 <b>Modes of inheritance</b>
- ![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/table-class.png)
+
  
 1.	Single Inheritance: one sub class is allowed to inherit from only one base class.
 2.	Multiple Inheritance:  one sub class is inherited from more than one base classes.
