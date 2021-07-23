@@ -67,6 +67,13 @@ b) A global function
  </ul>
  <li><b>Runtime polymorphism</b>: This type of polymorphism is achieved by Function Overriding.</li>
 •	Function overriding :when a derived class has a definition for one of the member functions of the base class. That base function is said to be overridden.
+ <li> Runtime Plolymorphism used  virtual functions </li>
+ <li> Virtual functions are used with inheritance, they are called according to the type of object pointed or referred, not according to the type of pointer or reference.  Virtual keyword is used to make a function virtual.</li>
+
+Following things are necessary to write a C++ program with runtime polymorphism (use of virtual functions)
+1) A base class and a derived class.
+2) A function with same name in base class and derived class.
+3) A pointer or reference of base class type pointing or referring to an object of derived class.
 </ul>
 <br>
 
